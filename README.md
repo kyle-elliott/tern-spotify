@@ -134,6 +134,10 @@ in Tern's plugin data folder without encryption. The plugin only talks to Spotif
 To revoke the plugin's access entirely, remove your developer app's access in your Spotify
 account settings.
 
+## License
+
+[MIT](LICENSE) © Kyle Elliott. Not affiliated with or endorsed by Spotify.
+
 ---
 
 Working on the plugin itself? See [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).
