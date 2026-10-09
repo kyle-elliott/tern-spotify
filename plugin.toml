@@ -1,0 +1,13 @@
+schema = 1
+id = "spotify"
+name = "Spotify"
+version = "0.1.0"
+description = "Spotify Connect remote: now playing, controls, queue, playlists and search."
+icon = "wave"
+host = "host.luau"
+window = "window.luau"
+styles = ["spotify.css"]
+
+[[blocks]]
+id = "player"
+title = "Spotify"
